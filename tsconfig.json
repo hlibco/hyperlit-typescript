@@ -4,7 +4,8 @@
     "baseUrl": "./src",
     "esModuleInterop": true,
     "isolatedModules": true,
-    "module": "esnext",
+    "jsx": "react",
+    "module": "ES2015",
     "moduleResolution": "node",
     "noEmit": true,
     "paths": {
